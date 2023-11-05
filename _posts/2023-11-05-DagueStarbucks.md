@@ -301,7 +301,7 @@ print(p1)
 
 
     
-![png](../_img/output_9_0.png)
+![output_9_0](https://github.com/2Seungsu/AI-BigData_curriculum/assets/141051562/c60c8a69-51c9-4e32-b5e5-55365fda92e1)
     
 
 
@@ -320,7 +320,7 @@ ggplot(df) + geom_bar(aes(x='매장명',y='인접_상가수',fill='하루평균�
 
 
     
-![png](../_img/output_11_0.png)
+![output_11_0](https://github.com/2Seungsu/AI-BigData_curriculum/assets/141051562/0bd2254c-db66-4e51-a0be-f4fb5d0949c0)
     
 
 
@@ -340,7 +340,7 @@ ggplot(df) + geom_bar(aes(x='매장명',y='인접_학교수',fill='하루평균�
 
 
     
-![png](../_img/output_13_0.png)
+![output_13_0](https://github.com/2Seungsu/AI-BigData_curriculum/assets/141051562/3bd43f6d-410c-4a25-bb83-9c1b3aa51117)
     
 
 
@@ -374,7 +374,7 @@ plt.show()
 
 
     
-![png](../_img/output_16_0.png)
+![output_16_0](https://github.com/2Seungsu/AI-BigData_curriculum/assets/141051562/c2704d42-bd59-44d7-9a7e-2bff0218dc3f)
     
 
 
