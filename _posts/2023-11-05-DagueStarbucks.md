@@ -301,7 +301,7 @@ print(p1)
 
 
     
-![png](_img/output_9_0.png)
+![png](../_img/output_9_0.png)
     
 
 
@@ -320,7 +320,7 @@ ggplot(df) + geom_bar(aes(x='매장명',y='인접_상가수',fill='하루평균�
 
 
     
-![png](_img/output_11_0.png)
+![png](../_img/output_11_0.png)
     
 
 
@@ -340,7 +340,7 @@ ggplot(df) + geom_bar(aes(x='매장명',y='인접_학교수',fill='하루평균�
 
 
     
-![png](_img/output_13_0.png)
+![png](../_img/output_13_0.png)
     
 
 
@@ -374,7 +374,7 @@ plt.show()
 
 
     
-![png](_img/output_16_0.png)
+![png](../_img/output_16_0.png)
     
 
 
@@ -1159,7 +1159,3 @@ tech[tech.소재지주소.str.contains('테크노')]
 
 동대구로 DT는 예전 mbc네거리에 위치하고 주변에 아파트입주예정이 많은 지역에 위치하였고, 웨딩홀과 세무서가 있다.
 
-
-```python
-
-```
